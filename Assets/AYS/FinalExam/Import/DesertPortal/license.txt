@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert Obelisk
+* source:	https://sketchfab.com/3d-models/desert-obelisk-18ae876c0d254c6b80ee3922656fefa2
+* author:	Nikcolt (https://sketchfab.com/nikcolt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert Obelisk" (https://sketchfab.com/3d-models/desert-obelisk-18ae876c0d254c6b80ee3922656fefa2) by Nikcolt (https://sketchfab.com/nikcolt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

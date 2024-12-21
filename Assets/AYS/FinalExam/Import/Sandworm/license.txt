@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dune - Sandworm riding ritual
+* source:	https://sketchfab.com/3d-models/dune-sandworm-riding-ritual-4314a92b332540329e4a447025d4b5ef
+* author:	Xuss (https://sketchfab.com/Xuss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dune - Sandworm riding ritual" (https://sketchfab.com/3d-models/dune-sandworm-riding-ritual-4314a92b332540329e4a447025d4b5ef) by Xuss (https://sketchfab.com/Xuss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piramide-3
+* source:	https://sketchfab.com/3d-models/piramide-3-33abeb1b4a4c4175be26a8a9f4422230
+* author:	gb.prof.69 (https://sketchfab.com/gb.prof.69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piramide-3" (https://sketchfab.com/3d-models/piramide-3-33abeb1b4a4c4175be26a8a9f4422230) by gb.prof.69 (https://sketchfab.com/gb.prof.69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

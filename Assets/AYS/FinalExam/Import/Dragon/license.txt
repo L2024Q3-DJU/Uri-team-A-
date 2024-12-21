@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert Dragon
+* source:	https://sketchfab.com/3d-models/desert-dragon-d826b1a0cb2b4128a7307d0cd06d967a
+* author:	ArachnoBoy (https://sketchfab.com/vang807)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert Dragon" (https://sketchfab.com/3d-models/desert-dragon-d826b1a0cb2b4128a7307d0cd06d967a) by ArachnoBoy (https://sketchfab.com/vang807) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

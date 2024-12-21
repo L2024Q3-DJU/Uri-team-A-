@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bone Dragon
+* source:	https://sketchfab.com/3d-models/bone-dragon-d929dc74d3ed42b6a2d958011f83dc6a
+* author:	shenmi (https://sketchfab.com/shenmi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bone Dragon" (https://sketchfab.com/3d-models/bone-dragon-d929dc74d3ed42b6a2d958011f83dc6a) by shenmi (https://sketchfab.com/shenmi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

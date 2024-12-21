@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert High Cliff
+* source:	https://sketchfab.com/3d-models/desert-high-cliff-f50a8315c11c488c8ccaddee814501b0
+* author:	Andromeda (https://sketchfab.com/div.andromeda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert High Cliff" (https://sketchfab.com/3d-models/desert-high-cliff-f50a8315c11c488c8ccaddee814501b0) by Andromeda (https://sketchfab.com/div.andromeda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
