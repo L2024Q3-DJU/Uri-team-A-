@@ -1,0 +1,11 @@
+Model Information:
+* title:	Winter Country House
+* source:	https://sketchfab.com/3d-models/winter-country-house-7673ffdea07e4a2b9e6dfc31f16a5eee
+* author:	TheWoodWard (https://sketchfab.com/TheWoodWard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Winter Country House" (https://sketchfab.com/3d-models/winter-country-house-7673ffdea07e4a2b9e6dfc31f16a5eee) by TheWoodWard (https://sketchfab.com/TheWoodWard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
